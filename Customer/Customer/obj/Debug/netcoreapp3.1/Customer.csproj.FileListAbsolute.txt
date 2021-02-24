@@ -1,0 +1,13 @@
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.exe
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.deps.json
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.runtimeconfig.json
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.runtimeconfig.dev.json
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.dll
+C:\Users\akbul\source\repos\Customer\Customer\bin\Debug\netcoreapp3.1\Customer.pdb
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.csprojAssemblyReference.cache
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.AssemblyInfoInputs.cache
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.AssemblyInfo.cs
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.csproj.CoreCompileInputs.cache
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.dll
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.pdb
+C:\Users\akbul\source\repos\Customer\Customer\obj\Debug\netcoreapp3.1\Customer.genruntimeconfig.cache
