@@ -1,0 +1,13 @@
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.csprojAssemblyReference.cache
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.AssemblyInfoInputs.cache
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.AssemblyInfo.cs
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.csproj.CoreCompileInputs.cache
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.exe
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.deps.json
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.runtimeconfig.json
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.runtimeconfig.dev.json
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.dll
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\bin\Debug\netcoreapp3.1\MyDicrionary.pdb
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.dll
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.pdb
+C:\Users\akbul\source\repos\OOP1\MyDicrionary\obj\Debug\netcoreapp3.1\MyDicrionary.genruntimeconfig.cache
