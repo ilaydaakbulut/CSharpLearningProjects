@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jqp2R7swPdNY1GHFNiihxSZIiiONHb2+jzAhL9ddsCnMuoErzc0ioA3EfC50xeIELpccTNx+bDVem1n7sAL4hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akbul\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akbul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\akbul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
