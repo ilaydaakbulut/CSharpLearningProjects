@@ -1,0 +1,13 @@
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csprojAssemblyReference.cache
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfoInputs.cache
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfo.cs
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.CoreCompileInputs.cache
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.exe
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.deps.json
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.json
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.dev.json
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.dll
+C:\Users\akbul\source\repos\OOP1\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.pdb
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.dll
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.pdb
+C:\Users\akbul\source\repos\OOP1\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.genruntimeconfig.cache
