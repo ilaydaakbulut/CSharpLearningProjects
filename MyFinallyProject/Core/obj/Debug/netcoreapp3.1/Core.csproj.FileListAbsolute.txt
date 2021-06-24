@@ -1,0 +1,9 @@
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\akbul\OneDrive\Masaüstü\deneme\MyFinallyProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
